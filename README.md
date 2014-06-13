@@ -3,8 +3,8 @@ topdownzs
 A 2D top-down zombie shooter where you have to survive waves of different zombies plus protect your animals from becomming zombies and your wife & children from becoming food.
 
 <img src="http://i.imgur.com/5mKGUer.jpg"/>
-<img src="http://i.imgur.com/h6lisgY.jpg"/>
-
+<img src="http://i.imgur.com/KECSMni.jpg"/>
+<img src="http://i.imgur.com/KECSMni.jpg />
 <h1>Game Design Document</h1>
 
 Contents
