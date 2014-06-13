@@ -4,7 +4,7 @@ A 2D top-down zombie shooter where you have to survive waves of different zombie
 
 <img src="http://i.imgur.com/5mKGUer.jpg"/>
 <img src="http://i.imgur.com/KECSMni.jpg"/>
-<img src="http://i.imgur.com/KECSMni.jpg />
+<img src="http://i.imgur.com/KECSMni.jpg" />
 <h1>Game Design Document</h1>
 
 Contents
